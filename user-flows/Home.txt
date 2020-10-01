@@ -1,3 +1,7 @@
 User clicks tab on the nav -> page associated with tab
 
 User clicks on a deal -> deal expands and displays contents
+
+User clicks on filter dropdown button and selects distance -> the list of deals is sorted by increasing distance
+
+User clicks on filter dropdown button and selects price -> the list of deals is sorted by increasing price
