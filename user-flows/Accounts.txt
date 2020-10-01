@@ -1,4 +1,0 @@
-User clicks tab on the nav -> page associated with tab
-
-User clicks on Account element -> goes to that account's "All Deals" list
-
